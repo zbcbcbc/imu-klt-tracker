@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../lib/libklt_tracker_lib.a  CMakeFiles/klt_tracker_lib.dir/featurePool.cxx.o CMakeFiles/klt_tracker_lib.dir/featureTrack.cxx.o CMakeFiles/klt_tracker_lib.dir/imageAlign.cxx.o CMakeFiles/klt_tracker_lib.dir/cameraModel.cxx.o
+/usr/bin/ranlib ../lib/libklt_tracker_lib.a
